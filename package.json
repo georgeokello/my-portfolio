@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeokello/my-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeokello/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/georgeokello/my-portfolio#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
